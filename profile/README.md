@@ -17,11 +17,11 @@ Bitte lese dir hier die [Mitwirkungsrichtlinien](./CONTRIBUTING.md) und den [Ver
 
 ## Installation
 
-Detaillierte Anweisungen zur Installation und Konfiguration findest du in der [Installationsanleitung](https://github.com/GrowBot-Open-Source/gb_HomeAssistant/INSTALL.md).
+Detaillierte Anweisungen zur Installation und Konfiguration findest du in der [Installationsanleitung](https://github.com/GrowBot-Open-Source/gb_HomeAssistant/blob/main/INSTALL.md).
 
 ## Lizenz
 
-Dieses Projekt steht unter der [MIT-Lizenz](https://github.com/GrowBot-Open-Source/gb_HomeAssistant/LICENSE).
+Dieses Projekt steht unter der [MIT-Lizenz](https://github.com/GrowBot-Open-Source/gb_HomeAssistant/blob/main/LICENSE).
 
 ## Kontakt
 
@@ -31,7 +31,7 @@ Für Fragen oder Anregungen erreichst du uns über die [GitHub Discussions](http
 ## Bestandteile
 * [Home Assistant](https://www.home-assistant.io/) - Die Basis
 * [ESPHome](https://esphome.io/) - Die Integration des ESP32 Platinen und Sensoren
-* Hardware - Die kompatible Hardware findest ist [hier](./HARDWARE.md) hinterlegt. 
+* Hardware - Die kompatible Hardware findest ist [hier](https://github.com/GrowBot-Open-Source/gb_HomeAssistant/blob/main/HARDWARE.md) hinterlegt. 
 
 ## Sponsoren
 * **Drain Master** - *Perfekte Drainage & einfache EC/pH-Messung* - [Kaufe deinen Abtropfständer hier](https://drain-master.de/produkt/drainmaster-4er-set/?ref=GrowBot)
