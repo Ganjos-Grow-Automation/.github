@@ -17,11 +17,11 @@ Bitte lese dir hier die [Mitwirkungsrichtlinien](./CONTRIBUTING.md) und den [Ver
 
 ## Installation
 
-Detaillierte Anweisungen zur Installation und Konfiguration findest du in der [Installationsanleitung](./INSTALL.md).
+Detaillierte Anweisungen zur Installation und Konfiguration findest du in der [Installationsanleitung](https://github.com/GrowBot-Open-Source/gb_HomeAssistant/INSTALL.md).
 
 ## Lizenz
 
-Dieses Projekt steht unter der [MIT-Lizenz](./LICENSE).
+Dieses Projekt steht unter der [MIT-Lizenz](https://github.com/GrowBot-Open-Source/gb_HomeAssistant/LICENSE).
 
 ## Kontakt
 
